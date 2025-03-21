@@ -3,5 +3,10 @@
         "date": "2025-03-21",
         "mood": "happy",
         "note": "i am also glad today"
+    },
+    {
+        "date": "2025-03-21",
+        "mood": "\ud83d\ude21",
+        "note": "i had a bad day today"
     }
 ]
