@@ -1,5 +1,5 @@
 # Mood Tracker CLI 📝
-A simple command-line application to track your daily mood.
+This is a simple command-line application to track your daily mood.
 
 ## Features:
 - Add daily moods 😊😢😡
